@@ -20,10 +20,12 @@
 
 ### 활용 데이터
 
-Brazilian E-Commerce Public Dataset by Olist
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-Marketing Funnel by Olist
-https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
+- Brazilian E-Commerce Public Dataset by Olist
+ - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Marketing Funnel by Olist
+ - https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
+   ![image](https://github.com/user-attachments/assets/2196d471-5f08-4f4c-8cb8-574b5f438e73)
+
 
 ## 팀 구성
 
