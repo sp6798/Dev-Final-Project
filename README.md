@@ -24,7 +24,8 @@
  - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Marketing Funnel by Olist
  - https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
-   ![image](https://github.com/user-attachments/assets/2196d471-5f08-4f4c-8cb8-574b5f438e73)
+![Olist_ERD_color (1)](https://github.com/user-attachments/assets/3511de40-5621-4d7c-8212-ef8fb9acdc97)
+
 
 
 ## 팀 구성
