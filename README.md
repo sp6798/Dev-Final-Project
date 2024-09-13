@@ -49,4 +49,4 @@
 6. **전략 제시**: 등급화 전략 + 퍼널 개선 전략 + 군집별 전략 제시
 
 ---
-Report Folder의 프로젝트 수행 pdf로 자세한 내용을 참고할 수 있습니다.
+[Report Folder](https://github.com/sp6798/Dev-Final-Project/blob/main/Report/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%8A%A4%ED%86%A0%EB%B8%8C%EB%A6%AC%EA%B7%B8%ED%8C%80(Olist%20store%20%ED%8C%90%EB%A7%A4%EC%9E%90%20%EC%9C%A0%EC%A7%80%20%EB%B0%8F%20%EC%9C%A0%EC%B9%98%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%8B%9C).pdf)의 프로젝트 수행 pdf로 자세한 내용을 참고할 수 있습니다.
